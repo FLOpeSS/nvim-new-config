@@ -1,8 +1,4 @@
 require("sneto")
-require("rose-pine").setup({
-    disable_italics = true
-})
-
 
 function ColorMyPencils(color)
    color = color or 'tokyonight'
@@ -14,11 +10,11 @@ end
 
 ColorMyPencils()
 
-vim.opt.clipboard = "unnamedplus"
 
 
 -- Set Python-specific indentation
 vim.cmd('autocmd FileType python setlocal shiftwidth=2')
 
+vim.opt.clipboard = "unnamedplus"
 
 

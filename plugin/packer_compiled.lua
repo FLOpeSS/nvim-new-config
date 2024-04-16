@@ -99,11 +99,6 @@ _G.packer_plugins = {
     path = "/home/sneto/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
     url = "https://github.com/VonHeikemen/lsp-zero.nvim"
   },
-  ["lualine.nvim"] = {
-    loaded = true,
-    path = "/home/sneto/.local/share/nvim/site/pack/packer/start/lualine.nvim",
-    url = "https://github.com/nvim-lualine/lualine.nvim"
-  },
   ["mason-lspconfig.nvim"] = {
     loaded = true,
     path = "/home/sneto/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
@@ -202,20 +197,10 @@ _G.packer_plugins = {
     path = "/home/sneto/.local/share/nvim/site/pack/packer/start/vim-be-good",
     url = "https://github.com/ThePrimeagen/vim-be-good"
   },
-  ["vim-code-dark"] = {
-    loaded = true,
-    path = "/home/sneto/.local/share/nvim/site/pack/packer/start/vim-code-dark",
-    url = "https://github.com/tomasiser/vim-code-dark"
-  },
   ["vim-go"] = {
     loaded = true,
     path = "/home/sneto/.local/share/nvim/site/pack/packer/start/vim-go",
     url = "https://github.com/fatih/vim-go"
-  },
-  ["vscode.nvim"] = {
-    loaded = true,
-    path = "/home/sneto/.local/share/nvim/site/pack/packer/start/vscode.nvim",
-    url = "https://github.com/Mofiqul/vscode.nvim"
   }
 }
 
