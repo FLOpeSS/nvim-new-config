@@ -15,6 +15,7 @@ ColorMyPencils()
 -- Set Python-specific indentation
 vim.cmd('autocmd FileType python setlocal shiftwidth=2')
 
+-- Copying to clipboard
 vim.opt.clipboard = "unnamedplus"
 
 
