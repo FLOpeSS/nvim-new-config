@@ -1,2 +1,2 @@
 # my-nvim-setup
-nvim-conf
+nvim-conf inspired by ThePrimeAgen config with some personal touchs.
